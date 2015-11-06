@@ -14,7 +14,9 @@ CustomMessageApp/Admin.py
 CustomMessageApp/Static/js/box.py
 
 #Project Installation
-- python manage.py migrate
-- python manage.py collectstatic
+```sh
+# python manage.py migrate
+# python manage.py collectstatic
+```
 
 Then, you can create a new Service and surprise editing it!
