@@ -5,11 +5,11 @@ For Django 1.8 or higher.
 #Interesting files
 
 CustomMessageApp/Models.py
-    - RoleMessage Class
+    * RoleMessage Class
 
 CustomMessageApp/Admin.py
-    - Whole ServicesForm Class
-    - Whole ServicesAdmin Class
+    * Whole ServicesForm Class
+    * Whole ServicesAdmin Class
 
 CustomMessageApp/Static/js/box.py
 
